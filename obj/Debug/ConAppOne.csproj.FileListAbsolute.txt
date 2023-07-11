@@ -1,0 +1,8 @@
+D:\ConAppOne\ConAppOne\bin\Debug\ConAppOne.exe.config
+D:\ConAppOne\ConAppOne\bin\Debug\ConAppOne.exe
+D:\ConAppOne\ConAppOne\bin\Debug\ConAppOne.pdb
+D:\ConAppOne\ConAppOne\obj\Debug\ConAppOne.csproj.AssemblyReference.cache
+D:\ConAppOne\ConAppOne\obj\Debug\ConAppOne.csproj.SuggestedBindingRedirects.cache
+D:\ConAppOne\ConAppOne\obj\Debug\ConAppOne.csproj.CoreCompileInputs.cache
+D:\ConAppOne\ConAppOne\obj\Debug\ConAppOne.exe
+D:\ConAppOne\ConAppOne\obj\Debug\ConAppOne.pdb
